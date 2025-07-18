@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&width=450&lines=Olá,+eu+sou+Samuel+Davi+Braga;Desenvolvedor+FullStack;Bem-vindo+ao+meu+GitHub!)
-
 <h1 align="center">Olá 👋, eu sou o Samuel Davi</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia!</h3>
 
@@ -30,10 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamuelDavi-Braga&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelDavi-Braga&show_icons=true&theme=dark)
-
 
 ### 📈 Estatísticas do GitHub
 <div align="center">
