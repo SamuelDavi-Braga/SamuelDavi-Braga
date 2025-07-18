@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Samuel Davi</h1>
+<h1 align="center">Olá, eu sou o Samuel Davi da Silva Braga</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia!</h3>
 
 ---
