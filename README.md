@@ -38,7 +38,7 @@
 ---
 
 ### 🐍 Contribuições animadas
-![Snake animation](https://github.com/SamuelDavi-Braga/SamuelDavi-Braga/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SamuelDavi-Braga/SamuelDavi-Braga/output/github-contribution-grid-snake.svg)
 
 ---
 
